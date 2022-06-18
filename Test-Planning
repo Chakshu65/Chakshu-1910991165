@@ -1,0 +1,95 @@
+What is a Test Plan?
+A test plan is a detailed document which describes software testing areas and activities. 
+It outlines the test strategy, objectives, test schedule, required resources, test estimation and test deliverables.
+The test plan is a base of every software's testing.
+The test plan serves as a blueprint to conduct software testing activities as a defined process, which is minutely monitored and controlled by the test manager.
+
+What is the importance of Test Planning?
+It helps to avoid out-of-scope functionalities.
+It determines the time, cost, and effort.
+It helps you control risk.
+They offer a clear guide for QA engineers to conduct their testing activities.
+
+What are the components of the Test Plan?
+Scope
+Schedule
+Environment
+Tools
+Risk Management
+Resource allocation
+Defect Management
+Exit Parameters
+
+Some Test Cases for Market Place Website:
+
+1. General Test Cases-
+Whether the website links are redirected to correct category/product pages.
+Whether there is clear visibility of the product, price, category name, product description, and company logo.
+And whether or not each category page has a product that is specifically listed for that category.
+The overall number of items mentioned on category pages is accurate.
+
+2. Homepage Test Cases-
+The auto-scrolling feature is present or not.
+When the client hovers over the Homepage, does it scroll to the next one?
+check at what interval the images will be refreshed?
+How much time is being taken to change the slides?
+Are the tabs working properly present on the home page?
+How long are the tabs taking to open?
+Does it direct consumers to the correct page or product offer when they click on it?
+Whether the homepage is appearing in the same manner in various browsers.
+
+3. Search Test Cases-
+Is it possible to search using the product’s name, brand name, or other identifiers?
+If the drop-down list is coming with proper names of items.
+If the name is wrong or there is a typing error, will the search list show the corrected recommendations?
+How much time searching feature is taking to display the contents.
+
+4. Product Description Test Cases-
+The delivery destination verification option is present on the page.
+The picture of the product is enlarging on clicking.
+The price of the product is displayed.
+Delivery options are displayed.
+Shipping information is displayed.
+The review section is functioning.
+Out of stock or In stock, information is showing on the page.
+
+5. Payment Test Cases-
+If all the payment options present are working properly.
+On clicking on a particular payment option, the extra charges required for that one is displaying correctly.
+Offers available on choosing a particular mode of payment are displayed with all the correct information.
+Security is maintained in this area because clients are entering their personal information into the eCommerce site.
+Whether the customers receive an order confirmation as a Text message/email along with an order number as soon as they complete the transaction.
+
+6. Shopping Cart Test Cases-
+Is the checkout option working or not.
+The continue shopping option is working or not.
+All items are displayed that were added in the cart.
+If one item is added twice, the number of the item present is showing the amount correctly.
+Apply coupon section is functioning.
+The price calculation is done correctly.
+The add ons like taxes, shipping charges, etc. are displayed separately along with the product's individual price.
+Remove item from the cart option is working.
+Check that the user can choose the desired attribute of the product, like color, size, etc., on the product page.
+Check that the users can add the products to their wishlist.
+Check that the user can purchase the products added to the cart after signing in to the app.
+Check that the product return option is working fine.
+
+7. Recommended Product Test Cases-
+Are the recommendations coming on the page immediately after the client confirms the order they have made?
+Are the recommendations of having relevant products that will interest the client?
+
+8. Registration/Login Test Cases-
+Check whether all the identified fields are added to the registration page/login page.
+Verify that leaving the mandatory fields empty and clicking the submit button will result in a validation error. 
+Validate the textboxes’ upper limit.
+Check validation on the numeric fields by filling in special characters and alphabets.
+Check that entering blank spaces on mandatory fields results in a validation error.
+Check that the mandatory/required fields are marked with “*.”
+Check if the page displays both reset/ submit and cancel buttons at the end.
+Check that leaving the optional fields empty and clicking the submit button will send data to the server with no validation error. 
+
+9. Post Order Page Test Cases-
+Check if the customer can cancel the order or alter the order quantity
+Check if the customer can review recent purchase orders and previous orders.
+Check if the customer can change the billing or shipping information or other profile info.
+
